@@ -126,9 +126,9 @@
   margin-top: 0.75rem;
 }
 
-.hour-available {
-  background-color: #2e2c30;
-}
+  .hour-available {
+    background-color: #2e2c30;
+  }
 
 .hour-unavailable {
   opacity: 0.5;
